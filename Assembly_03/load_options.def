@@ -1,0 +1,20 @@
+LoadOptions_SearchPaths: C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SP_Skate_Adapter\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SkatePayload\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\VSLAM\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\PX4_ADIS16448_adapter_board\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\optcam\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\FlirTau_9mm_f1.4\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\Distanzbolzen\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\CCG010_COMexpress_Carrier\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\BoardSpacer\\\
+ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\Atom\\Kontronik_atom_board_detailed\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\Atom\\atom_carrier_board_detailed\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\Atom\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod\\ADIS16448\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Assembly_03\\ C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\Wing C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\Components\\SensorPod C:\\Users\\andschaf\\Dropbox\\Studium\\MasterThesis\\CAD\\ "C:\\Program Files\\PLM\\NX 8.5\\ugii..." 
+LoadOptions_LoadComponents: load_all_components
+LoadOptions_LoadFully: NO
+LoadOptions_UseLightweightRepresentations: NO
+LoadOptions_LoadWAVE: NO
+LoadOptions_LoadWAVEParents: NONE
+LoadOptions_LoadSubstitution: dont_allow_substitution
+LoadOptions_LoadLatest: NO
+LoadOptions_LoadOption: load_from_search_dirs
+LoadOptions_ManagedModeLoadOption: load_by_revision_rule
+LoadOptions_LoadFilters: load_no_components
+LoadOptions_LoadFailOption: dont_abort
+LoadOptions_ReferenceSets: "As Saved" "Entire Part" "Empty" "Use Model" 
+LoadOptions_ApplyAllLevels: NO
+LoadOptions_GenerateMissingPFM: YES
+LoadOptions_BookmarkRefSets: Import
+LoadOptions_BookmarkPartsLoad: Load_Visible
+LoadOptions_BookmarkRestoreFullyLoadedState: no
+LoadOptions_SubsetLoadBehavior: Do_Not_Update
